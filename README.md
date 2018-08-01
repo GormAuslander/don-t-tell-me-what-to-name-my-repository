@@ -1,2 +1,1 @@
-# don-t-tell-me-what-to-name-my-repository
-Don't mind me. I'm just following a tutorial.
+once upon a time there was a wizard. I am the wizard. They call me the branchmaster.
